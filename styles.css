@@ -141,6 +141,10 @@ main section:nth-child(3){
     animation-delay: 1.5s;
 }
 
+main section:nth-child(4){
+    animation-delay: 2s;
+}
+
 @keyframes dropping {
     from {
         opacity: 0;
