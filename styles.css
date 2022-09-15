@@ -109,6 +109,11 @@ section ul li:hover{
     border-radius: 10px;
 }
 
+.to-play-list img{
+    width: 100px;
+    border-radius: 10px;
+}
+
 .channels-list img{
     border-radius: 50%;
     width: 75px;
